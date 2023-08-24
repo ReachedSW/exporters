@@ -24,8 +24,8 @@ mapNames = LoadAtlasInfo() # for mapnames
 
 folderBegin = "" # main maps folder
 
-constNumericData = ["areaambiencedata.txt", "areadata.txt", "areaproperty.txt", "attr.attr",
-    "height.raw", "minimap.dds", "shadowmap.dds", "shadowmap.raw", "title.raw", "water.wtr"]
+constNumericData = ["areaambiencedata.txt", "areadata.txt", "areaproperty.txt", "attr.atr",
+    "height.raw", "minimap.dds", "shadowmap.dds", "shadowmap.raw", "tile.raw", "water.wtr"]
 
 constRawData = ["mapproperty.txt", "monsterareainfo.txt", "monsterarrange.txt", "regen.txt", "setting.txt"]
 
